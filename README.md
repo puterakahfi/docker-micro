@@ -7,3 +7,6 @@ docker microservice
 ### Circuit Breaker
 ### Messaging 
 ### Logging
+### Web Server (Nginx)
+### Database (MySQL, MongoDB)
+
